@@ -1,0 +1,40 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "§7Made by iEnis#0244",
+		"name": "§6X-Y-Z to Score Addon",
+		"uuid": "fe2c34ea-3af0-41b3-8d84-aedc2f577105",
+		"version": [ 1, 0, 0 ],
+		"min_engine_version": [ 1, 14, 0 ]
+	},
+	"modules": [
+		{
+			"description": "Data Module",
+			"type": "data",
+			"uuid": "e172e0b4-3f53-416b-9345-ce74bc3e1aa1",
+			"version": [ 1, 0, 0 ]
+		},
+		{
+			"description": "Scripting Module",
+			"language": "javascript",
+			"type": "script",
+			"entry": "scripts/index.js",
+			"uuid": "57619c95-068f-4046-8026-6625690de60b",
+			"version": [ 1, 0, 0 ]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "mojang-gametest",
+			"version": "1.0.0-internal.11940b24"
+		},
+		{
+			"module_name": "mojang-minecraft",
+			"version": "0.1.0"
+		},
+		{
+			"module_name": "mojang-minecraft-ui",
+			"version": "0.1.0"
+		}
+	]
+}
