@@ -15,4 +15,3 @@ If you want to contribute to this project, feel free to fork this repository and
 
 ## Important Information
 Every Addon that uses the Javascript Gametest API requires the BetaAPI Features Enabled!
-For any Recomendations or questions join my [Discord Server](https://discord.gg/kNpn82bfkg)
