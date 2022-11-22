@@ -1,9 +1,7 @@
 <div align="center">
-    <br />
         <p>
             <a href="https://discord.gg/kNpn82bfkg"><img src="https://raw.githubusercontent.com/EnisGamingX/Public-Addons/main/Logo.png" width="600" alt="Public Addons" /></a>
         </p>
-    <br />
         <p>
             <a href="https://discord.gg/kNpn82bfkg"><img src="https://img.shields.io/discord/1039482545802317906?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
             <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/EnisGamingX/Public-Addons" alt="License" /></a>
