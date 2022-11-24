@@ -11,7 +11,7 @@
 If you want to contribute to this project, feel free to fork this repository and submit a pull request.
   </p>
 </div>
-Also, join my [Discord Server](https://discord.gg/kNpn82bfkg)
 
 ## Important Information
 Every Addon that uses the Javascript Gametest API requires the BetaAPI Features Enabled!
+Also, join my [Discord-Server](https://discord.gg/kNpn82bfkg)
