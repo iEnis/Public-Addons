@@ -9,6 +9,7 @@
     <p>
     <b>Public Addons</b> is a Minecraft: Bedrock Edition Project that Publishes a variety of TexturePacks, BehaviorPacks, Addons and Scripts for Educating Players that who are new to the Gametest API or Javascript.
 If you want to contribute to this project, feel free to fork this repository and submit a pull request.
+Also, join my (Discord Server)[https://discord.gg/kNpn82bfkg]
   </p>
 </div>
 
