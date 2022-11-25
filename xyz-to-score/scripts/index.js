@@ -1,4 +1,4 @@
-import { world } from 'mojang-minecraft'
+import { world } from '@minecraft/server'
 import * as config from './config'
 
 world.events.tick.subscribe(() => {
