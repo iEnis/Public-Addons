@@ -1,0 +1,22 @@
+{
+    "format_version": "1.19.20",
+    "minecraft:item": {
+        "description": {
+            "identifier": "example:test_item",
+            // Creative Item Category
+            "category": "items"
+        },
+        "components": {
+            // Creative Item Group
+            "minecraft:creative_category": {
+                "parent": "itemGroup.name.fireworkStars"
+            },
+
+
+            // You don't need this
+            "minecraft:icon": {"texture": "book_normal"},
+            "minecraft:display_name": { "value": "Example Item" },
+            "minecraft:max_stack_size": 1
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.19.20",
+    "minecraft:block": {
+        "description": {
+            "identifier": "example:test_block"
+        },
+        "components": {
+            "minecraft:creative_category": {
+                // Creative Item Category
+                "category": "items",
+
+                // Creative Item Group
+                "group": "itemGroup.name.fireworkStars"
+            },
+
+
+            // You don't need this
+            "minecraft:display_name": "Example Block"
+        }
+    }
+}
