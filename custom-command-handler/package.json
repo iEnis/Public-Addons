@@ -1,0 +1,11 @@
+{
+  "name": "custom-command-handler",
+  "version": "1.0.0",
+  "description": "This pack is for an example of how to make a Custom-Command-Handler without needing to add every single Command separately.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "iEnis",
+  "license": "ISC"
+}

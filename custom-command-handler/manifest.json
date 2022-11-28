@@ -1,0 +1,40 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "§7Made by iEnis#0244",
+		"name": "§6Custom-Command-Handler Addon",
+		"uuid": "5cdbee07-24c6-4678-8527-eabcefd6f718",
+		"version": [ 1, 0, 0 ],
+		"min_engine_version": [ 1, 14, 0 ]
+	},
+	"modules": [
+		{
+			"description": "Data Module",
+			"type": "data",
+			"uuid": "3f2199c0-199b-4d4d-b5fe-dd074323b3cb",
+			"version": [ 1, 0, 0 ]
+		},
+		{
+			"description": "Scripting Module",
+			"language": "javascript",
+			"type": "script",
+			"entry": "scripts/index.js",
+			"uuid": "99ae2274-c85a-42c7-a27c-438c5ece7d5d",
+			"version": [ 1, 0, 0 ]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server-gametest",
+			"version": "1.0.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.0.0"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "1.0.0-beta"
+		}
+	]
+}
