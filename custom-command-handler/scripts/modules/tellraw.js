@@ -31,12 +31,12 @@ export function tellraw(type, player, prefix, msg) {
     else { preflx = "" }
 
     if (type == 0) {
-        player.runCommand(`tellraw @s {"rawtext":[{"text":"${preflx}${msg}"}]}`)
+        player.runCommandAsync(`tellraw @s {"rawtext":[{"text":"${preflx}${msg}"}]}`)
     }
     else if (type == 1) {
-        player.runCommand(`tellraw @a {"rawtext":[{"text":"${preflx}${msg}"}]}`)
+        player.runCommandAsync(`tellraw @a {"rawtext":[{"text":"${preflx}${msg}"}]}`)
     }
     else if (type == 2) {
-        player.runCommand(`tellraw @a[name=!${player.name}] {"rawtext":[{"text":"${preflx}${msg}"}]}`)
+        player.runCommandAsync(`tellraw @a[name=!${player.name}] {"rawtext":[{"text":"${preflx}${msg}"}]}`)
     }
 }
