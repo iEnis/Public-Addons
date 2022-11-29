@@ -15,8 +15,8 @@ Step 3:
 Open the folder with cmd and run 'npm start' to create every command
 Info1: this step needs to be done everytime you create or delete a command
 Info2: The Command-Handler only accepts file that end in .js
-<img src="../images/custom-command-handler/img1.png"/>
-<img src="../images/custom-command-handler/img2.png"/>
-<img src="../images/custom-command-handler/img3.png"/>
-<img src="../images/custom-command-handler/img4.png"/>
+<br /><img src="../images/custom-command-handler/img1.png"/><br />
+<img src="../images/custom-command-handler/img2.png"/><br />
+<img src="../images/custom-command-handler/img3.png"/><br />
+<img src="../images/custom-command-handler/img4.png"/><br />
 <img src="../images/custom-command-handler/img5.png"/>
